@@ -64,7 +64,7 @@
                             
                             <div class="clearfix">
 
-                                <p class="pull-left m-t-20"><a id="password" href="#">Olvidates Tu Password</a></p>
+                                <p class="pull-left m-t-20"><a id="password" href="#">Olvidastes Tu Password</a></p>
                                 
                             </div>
                         </form>
@@ -84,7 +84,7 @@
             </div>
 
             <p class="account-copyright">
-                <span>Copyright © 2015 </span><span>SISTEMA DE REGISTRO FAMILIAR</span>.<span>derechos reservados</span>
+                <span>Copyright © 2020 </span><span>SISTEMA DE REGISTRO FAMILIAR</span>.<span>derechos reservados</span>
             </p>
 
                     <div class="row">

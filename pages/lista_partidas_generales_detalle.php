@@ -266,7 +266,7 @@ function insert(data){
 						<?php						
 						}
 					echo $row['texto_marginacion'].'<br>';
-					echo $t_pdivorcio['template'][14];echo " ";							
+					//echo $t_pdivorcio['template'][14];echo " "; esta linea se modificó debido a un error presentado al momento de generar una partida de nacimiento nueva... REVISAR!!							
 					
 					}
 					?>
